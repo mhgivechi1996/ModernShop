@@ -1,0 +1,114 @@
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Final Project\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+E:\DevTube\WebAPI DDD Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevTubeShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog..75771DFE.Up2Date
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.pdb
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Application.Contract.pdb
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Domain.Core.pdb
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\bin\Debug\net6.0\Catalog.Infrastructure.Database.pdb
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog..75771DFE.Up2Date
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\Catalog.Application.pdb
+D:\Microservice\Session25\ModernShop\src\Services\ModernShop.Catalog\Catalog.Domain.Application\obj\Debug\net6.0\ref\Catalog.Application.dll

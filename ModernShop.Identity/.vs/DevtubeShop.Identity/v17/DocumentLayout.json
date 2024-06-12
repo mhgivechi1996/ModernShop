@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\migrations\\20221206090939_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\migrations\\20221206090939_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\query||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\query||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\repositories\\ipermissionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\repositories\\ipermissionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|d:\\microservice\\session25\\devtubeshop\\src\\services\\devtubeshop.identity\\devtubeshop.identity\\repositories\\permissionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EEC24-D137-4D0E-92EA-DFBB589E90C0}|DevtubeShop.Identity\\Identity.API.csproj|solutionrelative:devtubeshop.identity\\repositories\\permissionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20221206090939_InitDB.cs",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Migrations\\20221206090939_InitDB.cs",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\Migrations\\20221206090939_InitDB.cs",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Migrations\\20221206090939_InitDB.cs",
+              "RelativeToolTip": "DevtubeShop.Identity\\Migrations\\20221206090939_InitDB.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:37:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "query",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\query",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\query",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\query",
+              "RelativeToolTip": "DevtubeShop.Identity\\query",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T21:37:40.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\appsettings.json",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\appsettings.json",
+              "RelativeToolTip": "DevtubeShop.Identity\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T21:35:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPermissionStateRepository.cs",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Repositories\\IPermissionStateRepository.cs",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\Repositories\\IPermissionStateRepository.cs",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Repositories\\IPermissionStateRepository.cs",
+              "RelativeToolTip": "DevtubeShop.Identity\\Repositories\\IPermissionStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:25:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissionStateRepository.cs",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Repositories\\PermissionStateRepository.cs",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\Repositories\\PermissionStateRepository.cs",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Repositories\\PermissionStateRepository.cs",
+              "RelativeToolTip": "DevtubeShop.Identity\\Repositories\\PermissionStateRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwCQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:25:33.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "DevtubeShop.Identity\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\Microservice\\Session25\\DevTubeShop\\src\\Services\\DevtubeShop.Identity\\DevtubeShop.Identity\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "DevtubeShop.Identity\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:25:33.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

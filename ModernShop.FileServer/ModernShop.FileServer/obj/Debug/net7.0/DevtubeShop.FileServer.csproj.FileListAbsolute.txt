@@ -1,0 +1,120 @@
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.Development.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.exe
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.deps.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.runtimeconfig.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.DevtubeShop.FileServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.build.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.pack.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.build.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.development.json
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\scopedcss\bundle\DevtubeShop.FileServer.styles.css
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\refint\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.pdb
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.genruntimeconfig.cache
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\ref\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.AspNetCore.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.Client.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Protobuf.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Core.Api.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Client.dll
+E:\DevTube\WebAPI DDD Microservice\Session23\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Common.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.Development.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.exe
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.deps.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.runtimeconfig.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.AspNetCore.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.Client.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Protobuf.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Core.Api.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Client.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Common.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cs
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.DevtubeShop.FileServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.build.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevtubeShop.FileServer.props
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.pack.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.build.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.development.json
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\scopedcss\bundle\DevtubeShop.FileServer.styles.css
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.CopyComplete
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\refint\DevtubeShop.FileServer.dll
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.pdb
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.genruntimeconfig.cache
+E:\DevTube\WebAPI DDD Microservice\Session24\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\ref\DevtubeShop.FileServer.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.Development.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\appsettings.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.exe
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.deps.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.runtimeconfig.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\DevtubeShop.FileServer.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.AspNetCore.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Dapr.Client.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Core.Api.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Client.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Grpc.Net.Common.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.AssemblyReference.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfoInputs.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.AssemblyInfo.cs
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.csproj.CoreCompileInputs.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.build.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.development.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.DevtubeShop.FileServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.build.DevtubeShop.FileServer.props
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevtubeShop.FileServer.props
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevtubeShop.FileServer.props
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\scopedcss\bundle\DevtubeShop.FileServer.styles.css
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeS.97B94C7F.Up2Date
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\refint\DevtubeShop.FileServer.dll
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.pdb
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\DevtubeShop.FileServer.genruntimeconfig.cache
+D:\Microservice\Session25\DevTubeShop\src\Services\DevtubeShop.FileServer\DevtubeShop.FileServer\obj\Debug\net7.0\ref\DevtubeShop.FileServer.dll
