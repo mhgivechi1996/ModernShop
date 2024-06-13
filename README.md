@@ -1,1 +1,2 @@
 # ModernShop
+This project is built using a microservices architecture combined with Domain-Driven Design (DDD) principles. The aim is to create a highly scalable, maintainable, and flexible system that can easily adapt to changing business requirements. The project consists of multiple loosely coupled services, each responsible for a specific business domain, ensuring clear separation of concerns and independent deployability.
