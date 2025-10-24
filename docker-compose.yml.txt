@@ -1,0 +1,65 @@
+version: '3.7'
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.12.1
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+    ports:
+      - 9200:9200
+    networks:
+      - elk
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.12.1
+    container_name: logstash
+    volumes:
+      - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+    ports:
+      - 5000:5000
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.12.1
+    container_name: kibana
+    ports:
+      - 5601:5601
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+
+  identityservice:
+    image: your_identity_service_image
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - elk
+    depends_on:
+      - logstash
+
+  catalogservice:
+    image: your_catalog_service_image
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - elk
+    depends_on:
+      - logstash
+
+  fileservice:
+    image: your_file_service_image
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - elk
+    depends_on:
+      - logstash
+
+networks:
+  elk:
+    driver: bridge

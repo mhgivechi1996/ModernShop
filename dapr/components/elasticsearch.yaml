@@ -1,0 +1,13 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: elasticsearch
+  namespace: default
+spec:
+  type: bindings.elasticsearch
+  version: v1
+  metadata:
+  - name: host
+    value: "http://localhost:9200"
+  - name: index
+    value: "logs-{date}"

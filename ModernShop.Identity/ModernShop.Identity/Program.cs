@@ -1,13 +1,19 @@
+using Dapr.Client;
 using Google.Api;
 using Identity.API;
 using Identity.API.Data;
 using Identity.API.GrpcServices;
 using Identity.API.Infra;
+using Identity.API.Middleware;
 using Identity.API.Models;
 using Identity.API.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Serilog;
+using Serilog.Sinks.Elasticsearch;
+using Serilog.Sinks.Network;
+using System.Net;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -31,7 +37,23 @@ builder.Services.AddScoped<IPermissionStateRepository, PermissionStateRepository
 builder.Services.AddControllers().AddDapr();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+var configuration = new ConfigurationBuilder()
+    .AddJsonFile("appsettings.json")
+    .Build();
 
+//Log.Logger = new LoggerConfiguration()
+//    .ReadFrom.Configuration(configuration)
+//    .CreateLogger();
+
+//builder.Host.UseSerilog();
+Log.Logger = new LoggerConfiguration()
+            .Enrich.FromLogContext()
+            .WriteTo.Elasticsearch(new ElasticsearchSinkOptions(new Uri("http://localhost:9200"))
+            {
+                AutoRegisterTemplate = true,
+                IndexFormat = "identity-logs-{0:yyyy.MM.dd}"
+            })
+            .CreateLogger();
 //builder.Services.AddStackExchangeRedisCache(options =>
 //{
 //    options.Configuration = "localhost:6379,password=redis";
@@ -41,6 +63,28 @@ builder.Services.AddSwaggerGen();
 //builder.Services.AddGrpc();
 
 //Add JWT Authentication
+Log.Logger = new LoggerConfiguration()
+            .Enrich.FromLogContext()
+            .WriteTo.Elasticsearch(new ElasticsearchSinkOptions(new Uri("http://localhost:9200"))
+            {
+                AutoRegisterTemplate = true,
+                IndexFormat = "identity-logs-{0:yyyy.MM.dd}"
+            })
+            .CreateLogger();
+try
+{
+    Log.Information("Starting up");
+}
+catch (Exception ex)
+{
+    Log.Fatal(ex, "Application start-up failed");
+    throw;
+}
+finally
+{
+    Log.CloseAndFlush();
+}
+    
 var tokenTimeOut = builder.Configuration.GetValue<int>("Configs:TokenTimeOut");
 var tokenKey = Encoding.UTF8.GetBytes(builder.Configuration.GetValue<string>("Configs:TokenKey"));
 builder.Services.AddAuthentication(x =>
@@ -66,6 +110,7 @@ builder.Services.AddAuthentication(x =>
 
 
 var app = builder.Build();
+app.UseMiddleware<ExceptionHandlingMiddleware>();
 
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())

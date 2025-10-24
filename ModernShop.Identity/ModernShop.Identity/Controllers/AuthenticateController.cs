@@ -60,6 +60,7 @@ namespace Identity.API.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Post(LoginDto login)
         {
+            throw new Exception();
             //1 => check username
             var user = await identityDbContext.Users.SingleOrDefaultAsync(q => q.UserName == login.UserName);
 
