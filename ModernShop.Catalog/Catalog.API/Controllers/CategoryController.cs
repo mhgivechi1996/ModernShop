@@ -33,21 +33,21 @@ namespace Catalog.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<List<string>> Get(Guid id)
+        public async Task<IActionResult> Get(Guid id)
         {
             var appName = "catalog";
             var stateKey = $"{UserId}{appName}";
 
             //await _daprClient.SaveStateAsync<string>(DAPR_STORE_NAME, stateKey.ToLower(), "Mohsen");
 
-            _logger.LogInformation(stateKey.ToLower());
-            var result = await _daprClient.GetStateAsync<List<string>>(DAPR_STORE_NAME, stateKey.ToLower());
+            //_logger.LogInformation(stateKey.ToLower());
+            //var result = await _daprClient.GetStateAsync<List<string>>(DAPR_STORE_NAME, stateKey.ToLower());
 
-            return result;
+            //return result;
 
-            //var query = new GetCategoryQuery { Id = id};
-            //var result = await _mediator.Send(query);
-            //return Ok(result);
+            var query = new GetCategoryQuery { Id = id };
+            var result = await _mediator.Send(query);
+            return Ok(result);
         }
 
         [HttpGet]

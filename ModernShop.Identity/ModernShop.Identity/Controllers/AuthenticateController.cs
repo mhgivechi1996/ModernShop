@@ -92,7 +92,7 @@ namespace Identity.API.Controllers
             userPermissions.Add(new UserPermissionDto
             {
                 AppName = "Catalog",
-                PermissioKeys = { "Category_Add", "Category_Delete" }, //, "Category_Get_All" },
+                PermissioKeys = { "Category_Add", "Category_Delete", "Category_Get_All" }, //, "Category_Get_All" },
             });
 
             userPermissions.Add(new UserPermissionDto
